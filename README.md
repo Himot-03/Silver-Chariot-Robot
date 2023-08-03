@@ -1,5 +1,5 @@
 # Silver-Chariot-Robot
-Repository made to show the process of assembly, programming and progress of the DATO's team robot.
+Repository made to show the process of assembly, programming and progress of the DATO's team robot for the WRO future engineers 2023.
 
 -Front wheels for the steering axis.
 
