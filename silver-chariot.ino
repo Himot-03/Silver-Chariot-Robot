@@ -251,6 +251,7 @@ digitalWrite(trigPin, LOW);
 Dangerstate();
 ColorSens();
 RightWay();
+LeftWay();
 Corner();
 delay(0);
 
